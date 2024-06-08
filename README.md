@@ -1,3 +1,3 @@
-low effort low quality all-in-one file format
+wannabe equiv of ggml but for rvc
 
-idk if updates will drop n shi ngl
+a single .ila file has metadata for uh, yeah
